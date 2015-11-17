@@ -36,8 +36,16 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151118012034.1"><vh>@edit 40323132_cp_w1.md</vh></v>
+<v t="leo.20151118012149.1"><vh>@edit 40323132_cp_w2.md</vh></v>
+<v t="leo.20151118012201.1"><vh>@edit 40323132_cp_w3.md</vh></v>
+<v t="leo.20151118012214.1"><vh>@edit 40323132_cp_w4.md</vh></v>
+<v t="leo.20151118012222.1"><vh>@edit 40323132_cp_w5.md</vh></v>
+<v t="leo.20151118012231.1"><vh>@edit 40323132_cp_w6.md</vh></v>
+<v t="leo.20151118012241.1"><vh>@edit 40323132_cp_w7.md</vh></v>
+<v t="leo.20151118012249.1"><vh>@edit 40323132_cp_w8.md</vh></v>
 </v>
+<v t="leo.20151118013404.1"><vh>@edit 40323132_cp_w1_p.html</vh></v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
@@ -489,12 +497,22 @@
 </v>
 </v>
 </v>
+<v t="leo.20151118011810.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20151118011810.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
+<v t="leo.20151118011810.4"><vh>old:html 標註</vh></v>
+<v t="leo.20151118011810.5"><vh>new:html 標註</vh></v>
+</v>
+<v t="leo.20151118011810.6"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
+<v t="leo.20151118011810.7"><vh>old:有關我的作業</vh></v>
+<v t="leo.20151118011810.8"><vh>new:有關我的作業</vh></v>
+</v>
+<v t="leo.20151118011810.9"><vh>Recovered node "作業任務一" from @clean simplest.html</vh>
+<v t="leo.20151118011810.10"><vh>old:作業任務一</vh></v>
+<v t="leo.20151118011810.11"><vh>new:作業任務一</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="amd.20150913232627.2">@language xml
-@tabwidth -4
-@others
-</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1987,9 +2005,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
 	&lt;![endif]--&gt;
 &lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
@@ -2026,14 +2041,17 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;section&gt;
+    	&lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+    	&lt;p&gt;四設計二甲 40323132 張哲銘 104/10/1&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    	&lt;h1&gt;自我簡介&lt;/h1&gt;
+    &lt;/section&gt;
 &lt;/section&gt;
-	
+&lt;section id ="111"&gt;
 </t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+<t tx="amd.20150915211351.9">    &lt;h1&gt;作業一&lt;/h1&gt;
     &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2235,5 +2253,123 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151118011810.10">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151118011810.11">    &lt;h1&gt;作業一&lt;/h1&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151118011810.2"></t>
+<t tx="leo.20151118011810.3">(uncached) amd.20150915211351.1
+Diff...
+  &lt;!doctype html&gt;
+  &lt;html lang="en"&gt;
+  &lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+  	&lt;!--[if lt IE 9]&gt;
+  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+  	&lt;![endif]--&gt;
+  &lt;/head&gt;
++ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
++ &lt;/html&gt;
++ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
+  @others
+</t>
+<t tx="leo.20151118011810.4">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+&lt;/html&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
+@others
+</t>
+<t tx="leo.20151118011810.5">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151118011810.6">(uncached) amd.20150915211351.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+-     &lt;section&gt;
+-     	&lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+-     	&lt;p&gt;四設計二甲 40323132 張哲銘 104/10/1&lt;/p&gt;
+-     &lt;/section&gt;
+-     &lt;section&gt;
+-     	&lt;h1&gt;自我簡介&lt;/h1&gt;
+?     -    ^ ^^
++     &lt;h1&gt;有關我的作業&lt;/h1&gt;
+?         ^^ ^^^
+-     &lt;/section&gt;
++     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+  &lt;/section&gt;
+- &lt;section id ="111"&gt;
++ 	
+</t>
+<t tx="leo.20151118011810.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151118011810.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+    	&lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+    	&lt;p&gt;四設計二甲 40323132 張哲銘 104/10/1&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    	&lt;h1&gt;自我簡介&lt;/h1&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+&lt;section id ="111"&gt;
+</t>
+<t tx="leo.20151118011810.9">(uncached) amd.20150915211351.9
+Diff...
++ &lt;section id="hw-task-one"&gt;
+-     &lt;h1&gt;作業一&lt;/h1&gt;
++     &lt;h1&gt;作業任務一&lt;/h1&gt;
+?           ++
++     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+      &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+  &lt;/section&gt;
+  				
+</t>
 </tnodes>
 </leo_file>
